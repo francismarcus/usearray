@@ -1,4 +1,4 @@
-# useInput
+# useArray
 *React hook to simplify the usage of arrays*
 
 ```javascript
